@@ -103,7 +103,7 @@ body {
 
 .container {
     background-color: var(--clr-neutral-1);
-    max-width: 700px;
+    max-width: 701px;
     height: min-content;
 }
 
@@ -114,7 +114,7 @@ body {
     padding: 1.9rem;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 601px) {
     body {
         padding: 3rem;
         height: min-content;
