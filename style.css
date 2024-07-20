@@ -67,6 +67,7 @@ h1,
 h2,
 h3 {
     line-height: 1;
+    font-weight: var(--fw-accent);
 }
 
 /* custom properties */
@@ -127,7 +128,7 @@ body {
         display: flex;
         flex-direction: column;
         padding: 1.9rem;
-        gap: 1.5rem;
+        gap: 2rem;
     }
 
     .text-container {
